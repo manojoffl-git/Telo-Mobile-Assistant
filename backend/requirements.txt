@@ -1,0 +1,5 @@
+livekit-agents[google]
+livekit-api
+python-dotenv
+fastapi
+uvicorn[standard]
