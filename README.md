@@ -32,7 +32,7 @@ Telo combines **Gemini Live**, **LiveKit**, **Flutter**, and Android's **Accessi
 │              │              │
 │  ┌───────────▼───────────┐  │
 │  │ AccessibilityService  │  │
-│  │ Screen + UI Actions    │  │
+│  │ Screen + UI Actions   │  │
 │  └───────────────────────┘  │
 └──────────────┬──────────────┘
                │
